@@ -42,4 +42,7 @@ export default defineNuxtConfig({
   build: {
     transpile: ["mdb-vue-ui-kit"],
   },
+  modules: [
+    '@nuxt/image',
+  ]
 });

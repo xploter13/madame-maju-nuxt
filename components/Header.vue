@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-2">
-                        <img src="/assets/images/logo-madame-maju.webp" class="img-fluid" alt="logo">
+                        <nuxt-img src="https://ik.imagekit.io/8z4sc6x4w/madame_maju/logo-madame-maju.webp?updatedAt=1688784873053" format="webp" loading="lazy" width="220" height="auto" />
                     </div>
                     <div class="col-lg-6 ms-lg-5">
                         <div class="input-group mb-3">
