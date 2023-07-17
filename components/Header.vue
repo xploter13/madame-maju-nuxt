@@ -140,4 +140,8 @@
     position: relative;
     top: 8px;
 }
+
+.badge-notification {
+    background-color: var(--bg-red);
+}
 </style>

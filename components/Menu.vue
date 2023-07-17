@@ -65,4 +65,10 @@
     font-weight: 600;
     font-size: .878rem;
 }
+
+.navbar-nav .nav-item .nav-link:hover,
+.navbar-nav .nav-item .nav-link:focus {
+    transition: .3s;
+    color: var(--color-yellow);
+}
 </style>

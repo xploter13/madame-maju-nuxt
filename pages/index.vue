@@ -3,6 +3,7 @@
     <Top />
     <Header />
     <Menu />
+    <Slideshow />
   </div>
 </template>
 
