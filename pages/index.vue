@@ -4,6 +4,7 @@
     <Header />
     <Menu />
     <Slideshow />
+    <BarCtaTop />
   </div>
 </template>
 
